@@ -1,0 +1,11 @@
+h3, h4, h5{
+    color: var(-mainText);
+}
+
+li, p{
+    color: var(--secondaryText);
+}
+
+body{
+    background-color: var(--secondaryColor);
+}
